@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Charmy Jain 👋
 
 I'm a passionate **MERN Stack Developer** who loves building web applications with MongoDB, Express.js, React, and Node.js.
 
@@ -24,7 +24,7 @@ I'm a passionate **MERN Stack Developer** who loves building web applications wi
 - 🔭 I’m currently working on building scalable web applications.
 - 🌱 I’m continuously learning new technologies and improving my skills.
 - 💻 I enjoy coding, problem-solving, and contributing to open source.
-- 📫 How to reach me: [your-email@example.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+- 📫 How to reach me: [charmyjain1@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/charmy-jain/).
 
 ## Skills
 
