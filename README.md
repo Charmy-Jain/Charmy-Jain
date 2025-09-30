@@ -3,6 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Code-Django-orange?style=flat-square&logo=django" />
   <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/Framework-React.js-blue?style=flat-square&logo=react" />
   <img src="https://img.shields.io/badge/Backend-Node.js-green?style=flat-square&logo=node.js" />
