@@ -1,52 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Charmy Jain</h1>
+<h3 align="center">Full Stack Developer | AI Enthusiast | Creative Technologist</h3>
 
-<!--
-**Charmy-Jain/Charmy-Jain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hi there, I'm Charmy Jain 👋
-
-I'm a passionate **MERN Stack Developer** who loves building web applications with MongoDB, Express.js, React, and Node.js.
-
-## About Me
-
-- 🔭 I’m currently working on building scalable web applications.
-- 🌱 I’m continuously learning new technologies and improving my skills.
-- 💻 I enjoy coding, problem-solving, and contributing to open source.
-- 📫 How to reach me: [charmyjain1@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/charmy-jain/).
-
-## Skills
-
-- **Frontend:** React, Redux, HTML5, CSS3, JavaScript (ES6+)
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, Mongoose
-- **Tools & Platforms:** Git, GitHub, VS Code, Postman, Heroku, Netlify
-
-## Projects
-
-Here are some of my projects:
-
-- [Project 1](https://github.com/yourusername/project1) - Brief description of project 1.
-- [Project 2](https://github.com/yourusername/project2) - Brief description of project 2.
-- [Project 3](https://github.com/yourusername/project3) - Brief description of project 3.
-
-## Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript" />
+  <img src="https://img.shields.io/badge/Framework-React.js-blue?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=flat-square&logo=node.js" />
+   <img src="https://img.shields.io/badge/Framework-React%20Native-blue?style=flat-square&logo=react" />
+</p>
 
 ---
 
-*“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+### 🚀 About Me
+
+- 💻 Passionate about building scalable full-stack applications and intelligent AI tools
+- 🧠 Skilled in React.js, Node.js, Python, Django, SQL, MongoDB, and more
+- 🛠️ Experienced in API design, database architecture, and real-time systems
+- 🏆 Hackathon Winner | Certified React JS Developer | JavaScript Certified
+
+---
+
+🛠️ **Tech Stack Highlights**
+- 💻 JavaScript (Desktop Apps & Games)
+- 🐍 Python (ML Workflows, Automation)
+- 🌐 MERN Stack (Full-Stack Web, Mobile Apps(IOS/ANDROID))
+- 🤖 Django Projects
+
+<!--
+  
+📌 **Pinned Projects Showcase**
+- 🎮 BreakTheBrick | Java Game
+- 📚 LibraCoreSystem | Enterprise Library Management
+- 📺 VisualTV_JavaApp | OTT Platform
+- 🧠 EduQuizMaster | Educational Tool
+- 💬 TimeDrop | Real-Time Messaging App
+- ♟️ ChessMasterEngine | AI-Powered Chess Game
+
+-->
+---
+
+<!--
+### 🔥 Featured Projects
+
+#### 🔹 [IntelliVibe-Ai](https://github.com/abhi041540/IntelliVibe_Ai_Dashboard)
+> Real-time AI chat platform with voice interaction and secure API access. Built with React.js, Node.js, and NLP integration.
+
+#### 🔹 [BrainFuel](https://github.com/abhi041540/BrainFuel)
+> BrainFuel is a cross-platform quiz app built with React Native, offering 50+ curated categories, dynamic difficulty levels, and real-time performance tracking for interview prep and academic mastery.
+
+#### 🔹 [VisualTV OTT Platform](https://github.com/abhi041540/VisualTV_App)
+> Full-stack OTT app streaming movies via real-time web scraping. Includes custom media player, authentication, and session management.
+
+#### 🔹 [Library Management System](https://github.com/abhi041540/LibraCoreSystem)
+> Java Swing-based desktop app with role-based UI, JDBC integration, and multithreaded logic.
+
+#### 🔹 [Dset Cleaning Tool](https://github.com/abhi041540/Dset-Cleaning)
+> Smart dataset preprocessing app built with Streamlit and Python. Handles nulls, outliers, duplicates, and feature selection using ML pipelines.
+
+-->
+---
+
+### 📫 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/charmy-jain/)
+- 📧 charmyjain1@gmail.com
+- 🌐 [GitHub Profile](https://github.com/Charmy-Jain)
+
+---
+### ✨ Fun Fact
+
+> I love turning complex problems into elegant solutions—and making them look good while doing it.
+
+---
+
