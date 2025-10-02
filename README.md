@@ -23,21 +23,16 @@
 
 🛠️ **Tech Stack Highlights**
 - 💻 JavaScript (Desktop Apps & Games)
-- 🐍 Python (ML Workflows, Automation)
-- 🌐 MERN Stack (Full-Stack Web, Mobile Apps(IOS/ANDROID))
+- 🌐 MERN Stack (Full-Stack Web, Mobile Apps
 - 🤖 Django Projects
 
-<!--
   
 📌 **Pinned Projects Showcase**
-- 🎮 BreakTheBrick | Java Game
-- 📚 LibraCoreSystem | Enterprise Library Management
-- 📺 VisualTV_JavaApp | OTT Platform
-- 🧠 EduQuizMaster | Educational Tool
-- 💬 TimeDrop | Real-Time Messaging App
-- ♟️ ChessMasterEngine | AI-Powered Chess Game
+- 🎮 ScriptCraft_AI | Video Script Generator
+- 💬 ChatFriendly | Real Time Chat Application
+- 📺 Ecomm App | Ecommerce Website
+- 📚 Lts GO | travel Info App
 
--->
 ---
 
 <!--
