@@ -26,6 +26,7 @@
 - 🌐 MERN Stack (Full-Stack Web, Mobile Apps
 - 🤖 Django Projects
 
+
   
 📌 **Pinned Projects Showcase**
 - 🎮 ScriptCraft_AI | Video Script Generator
@@ -53,8 +54,8 @@
 #### 🔹 [Dset Cleaning Tool](https://github.com/abhi041540/Dset-Cleaning)
 > Smart dataset preprocessing app built with Streamlit and Python. Handles nulls, outliers, duplicates, and feature selection using ML pipelines.
 
--->
 ---
+-->
 
 ### 📫 Connect with Me
 
