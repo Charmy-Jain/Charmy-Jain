@@ -21,13 +21,29 @@
 
 ---
 
+<!--
+### 🧠 Machine Learning Skills
+
+| Stage               | Tools & Libraries |
+|---------------------|------------------|
+| 📊 Data Cleaning     | `pandas`, `NumPy`, `missingno` |
+| 📈 Visualization     | `matplotlib`, `seaborn`, `plotly` |
+| 🧬 Feature Engineering | `mlxtend`, `scikit-learn` |
+| 🧠 Model Training     | `scikit-learn`, `mlxtend`
+| 🔍 Evaluation         | `confusion_matrix`, ` RandomSearch CV`, `GridSearchCV` ,` MeanSquareError` , `MeanAbsoluteError`|
+| 📦 Deployment         |`GitHub Pages`,`Vercel`, `Render`, `Streamlit` |
+
+📊 **Stats Overview**
+- 🔧 Total Repositories: 20+
+- 📈 Total Commits (2025): 178+
+
+-->
+
 🛠️ **Tech Stack Highlights**
 - 💻 JavaScript (Desktop Apps & Games)
 - 🌐 MERN Stack (Full-Stack Web, Mobile Apps
 - 🤖 Django Projects
 
-
-  
 📌 **Pinned Projects Showcase**
 - 🎮 ScriptCraft_AI | Video Script Generator
 - 💬 ChatFriendly | Real Time Chat Application
