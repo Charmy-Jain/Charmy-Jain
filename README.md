@@ -21,23 +21,25 @@
 
 ---
 
-<!--
-### 🧠 Machine Learning Skills
+### 🧠 Tech Stacks
 
-| Stage               | Tools & Libraries |
-|---------------------|------------------|
-| 📊 Data Cleaning     | `pandas`, `NumPy`, `missingno` |
-| 📈 Visualization     | `matplotlib`, `seaborn`, `plotly` |
-| 🧬 Feature Engineering | `mlxtend`, `scikit-learn` |
-| 🧠 Model Training     | `scikit-learn`, `mlxtend`
-| 🔍 Evaluation         | `confusion_matrix`, ` RandomSearch CV`, `GridSearchCV` ,` MeanSquareError` , `MeanAbsoluteError`|
-| 📦 Deployment         |`GitHub Pages`,`Vercel`, `Render`, `Streamlit` |
+| Category          | Tools & Libraries                                                          |
+| ----------------- | -------------------------------------------------------------------------- |
+| 🎨 Frontend       | `React.js`, `React Native`, `Redux`, `TailwindCSS`, `Bootstrap`            |
+| ⚙️ Backend        | `Node.js`, `Express.js`, `Django`, `Flask`                                 |
+| 🗄️ Database      | `MongoDB`, `Mongoose`, `MySQL`                                              |
+| 🔐 Authentication | `JWT`, `OAuth`, `bcrypt`                                                   |
+| 🤖 AI/ML          | `OpenAI GPT`, `LangChain`, `Python`, `scikit-learn`                        |
+| ☁️ Deployment     | `Vercel`, `Render`, `Netlify`, `GitHub Pages`                              |
+| 🛠 Tools          | `Git`, `GitHub`, `Postman`, `VS Code`                                       |
+
 
 📊 **Stats Overview**
-- 🔧 Total Repositories: 20+
-- 📈 Total Commits (2025): 178+
 
--->
+🔧 Total Repositories: 10+
+📈 Total Commits (2025): 178+
+🌍 Deployed Projects: 10+
+🏆 Focus Areas: MERN Apps, React Native, AI Tools, API Development
 
 🛠️ **Tech Stack Highlights**
 - 💻 JavaScript (Desktop Apps & Games)
@@ -52,26 +54,24 @@
 
 ---
 
-<!--
 ### 🔥 Featured Projects
 
-#### 🔹 [IntelliVibe-Ai](https://github.com/abhi041540/IntelliVibe_Ai_Dashboard)
-> Real-time AI chat platform with voice interaction and secure API access. Built with React.js, Node.js, and NLP integration.
+#### 🔹 [ScriptCraft-Ai](https://github.com/Charmy-Jain/AI_Script_Generator)
+> Generates video scripts with multi-language support, file upload, and export features. Built with React.js, Django, and GPT-4 integration.
 
-#### 🔹 [BrainFuel](https://github.com/abhi041540/BrainFuel)
-> BrainFuel is a cross-platform quiz app built with React Native, offering 50+ curated categories, dynamic difficulty levels, and real-time performance tracking for interview prep and academic mastery.
+#### 🔹 [ChatFriendly](https://github.com/Charmy-Jain/Chatty_app)
+> Real-time text, voice & video calling, secure JWT auth, multi-tab session handling.
 
-#### 🔹 [VisualTV OTT Platform](https://github.com/abhi041540/VisualTV_App)
-> Full-stack OTT app streaming movies via real-time web scraping. Includes custom media player, authentication, and session management.
+#### 🔹 [Ecommerce Platform](https://github.com/Charmy-Jain/Ecomm_app)
+> Dynamic product listings, category-based browsing, responsive UI, real-time cart updates.
 
-#### 🔹 [Library Management System](https://github.com/abhi041540/LibraCoreSystem)
-> Java Swing-based desktop app with role-based UI, JDBC integration, and multithreaded logic.
+#### 🔹 [LtsGo App](https://github.com/Charmy-Jain/LtsGo_App)
+> A travel planning web app to explore destinations, check weather, and create itineraries. Integrated third-party APIs for real-time travel data and responsive UI for mobile devices.
 
-#### 🔹 [Dset Cleaning Tool](https://github.com/abhi041540/Dset-Cleaning)
-> Smart dataset preprocessing app built with Streamlit and Python. Handles nulls, outliers, duplicates, and feature selection using ML pipelines.
+#### 🔹 [Personal Portfolio](https://charmy-portfolio.netlify.app/)
+> A modern developer portfolio showcasing skills, projects, and achievements. Optimized for performance, SEO, and mobile responsiveness.
 
 ---
--->
 
 ### 📫 Connect with Me
 
