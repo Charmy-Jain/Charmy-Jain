@@ -59,7 +59,7 @@
 #### 🔹 [ScriptCraft-Ai](https://github.com/Charmy-Jain/AI_Script_Generator)
 > Generates video scripts with multi-language support, file upload, and export features. Built with React.js, Django, and GPT-4 integration.
 
-#### 🔹 [ChatFriendly](https://github.com/Charmy-Jain/Chatty_app)
+#### 🔹 [ChatFriendly-A Real-Time Chat Application](https://github.com/Charmy-Jain/Chatty_app)
 > Real-time text, voice & video calling, secure JWT auth, multi-tab session handling.
 
 #### 🔹 [Ecommerce Platform](https://github.com/Charmy-Jain/Ecomm_app)
