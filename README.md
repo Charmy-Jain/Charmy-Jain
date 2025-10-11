@@ -37,7 +37,7 @@
 
 📊 **Stats Overview**
 
-- 🔧 Total Repositories: 10+
+- 🔧 Total Repositories: 15+
 - 📈 Total Commits (2025): 178+
 - 🌍 Deployed Projects: 10+
 - 🏆 Focus Areas: MERN Apps, React Native, AI Tools, API Development
