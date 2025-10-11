@@ -34,13 +34,21 @@
 | ☁️ Deployment     | `Vercel`, `Render`, `Netlify`, `GitHub Pages`                              |
 | 🛠 Tools          | `Git`, `GitHub`, `Postman`, `VS Code`                                       |
 
-
+<!--
 📊 **Stats Overview**
 
 - 🔧 Total Repositories: 15+
 - 📈 Total Commits (2025): 178+
 - 🌍 Deployed Projects: 10+
 - 🏆 Focus Areas: MERN Apps, React Native, AI Tools, API Development
+
+-->
+- ### 🚀 Key Metrics & Expertise
+
+- **Production Footprint:** **7+ Live Applications** deployed on Vercel & AWS.
+- **Deep Skill Focus:** Proficient in **Full-Stack MERN** architecture and **Asynchronous API Design** (REST/GraphQL).
+- **Core Contributions:** Consistently maintained a **75+ day GitHub contribution streak** this year.
+- **Advanced Tech:** Developed **2 Mobile Applications** using React Native and prototyped **3 Generative AI Tools** (LangChain/Hugging Face).
 
 🛠️ **Tech Stack Highlights**
 - 💻 JavaScript (Desktop Apps & Games)
