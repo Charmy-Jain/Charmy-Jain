@@ -25,7 +25,7 @@
 
 | Category          | Tools & Libraries                                                          |
 | ----------------- | -------------------------------------------------------------------------- |
-| 🎨 Frontend       | `React.js`, `React Native`, `Redux`, `TailwindCSS`, `Bootstrap`            |
+| 🎨 Frontend       | `React.js`, `Typescript`, `React Native`, `Redux`, `TailwindCSS`, `Bootstrap`  |
 | ⚙️ Backend        | `Node.js`, `Express.js`, `Django`, `Flask`                                 |
 | 🗄️ Database      | `MongoDB`, `Mongoose`, `MySQL`                                              |
 | 🔐 Authentication | `JWT`, `OAuth`, `bcrypt`                                                   |
