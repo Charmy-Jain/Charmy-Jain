@@ -25,6 +25,7 @@
 
 | Category          | Tools & Libraries                                                          |
 | ----------------- | -------------------------------------------------------------------------- |
+|💻 Languages       | `JavaScript (ES6+)`, `TypeScript`, `Python`, `C++`                         |
 | 🎨 Frontend       | `React.js`, `Typescript`, `React Native`, `Redux`, `TailwindCSS`, `Bootstrap`  |
 | ⚙️ Backend        | `Node.js`, `Express.js`, `Django`, `Flask`                                 |
 | 🗄️ Database      | `MongoDB`, `Mongoose`, `MySQL`                                              |
