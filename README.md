@@ -25,12 +25,12 @@
 
 | Category          | Tools & Libraries                                                          |
 | ----------------- | -------------------------------------------------------------------------- |
-|💻 Languages       | `JavaScript (ES6+)`, `TypeScript`, `Python`, `C++`                         |
-| 🎨 Frontend       | `React.js`, `Typescript`, `React Native`, `Redux`, `TailwindCSS`, `Bootstrap`  |
-| ⚙️ Backend        | `Node.js`, `Express.js`, `Django`, `Flask`                                 |
+|💻 Languages       | `JavaScript (ES6+)`, `TypeScript`, `Python`, `C++`, `PHP`                  |
+| 🎨 Frontend       | `React.js`, `React Native`, `Redux`, `TailwindCSS`, `Bootstrap`            |
+| ⚙️ Backend        | `Node.js`, `Express.js`, `Django`, `Flask`, `Laravel`                      |
 | 🗄️ Database      | `MongoDB`, `Mongoose`, `MySQL`                                              |
 | 🔐 Authentication | `JWT`, `OAuth`, `bcrypt`                                                   |
-| 🤖 AI/ML          | `OpenAI GPT`, `LangChain`, `Python`, `scikit-learn`                        |
+| 🤖 AI/ML          | `OpenAI GPT`, `LangChain`, `scikit-learn`                                  |
 | ☁️ Deployment     | `Vercel`, `Render`, `Netlify`, `GitHub Pages`                              |
 | 🛠 Tools          | `Git`, `GitHub`, `Postman`, `VS Code`                                       |
 
